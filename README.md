@@ -128,7 +128,7 @@ Microcontroller-based projects involving sensor interfacing, wireless communicat
 
 ## 📈 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adithyan1426&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adithyan1426&show_icons=true&theme=github_dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adithyan1426&layout=compact&langs_count=10&theme=github_dark&hide_border=true)
 ---
