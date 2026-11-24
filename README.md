@@ -1,4 +1,3 @@
-
 # Hi, I'm Adithyan B. 👋
 
 ### Embedded Systems | Firmware Development | Electronics | Robotics
@@ -60,6 +59,7 @@ I enjoy working close to the hardware — developing firmware, interfacing senso
 ## 🚀 Featured Projects
 
 ### 🛰️ COSPAR-1 Flight Software
+
 Embedded flight software development for an aerospace system involving payload interfacing, communication protocols, firmware development, and hardware integration.
 
 **Focus:**
@@ -72,6 +72,7 @@ Embedded flight software development for an aerospace system involving payload i
 ---
 
 ### 🚗 IoT Accident Monitoring System
+
 An IoT-based accident detection and monitoring system integrating ESP32 and Raspberry Pi for motion sensing, accident detection, GPS tracking, wireless communication, and remote monitoring.
 
 **Hardware:**
@@ -91,6 +92,7 @@ An IoT-based accident detection and monitoring system integrating ESP32 and Rasp
 ---
 
 ### 🚁 UAV & Drone Systems
+
 Development and experimentation with drone systems involving embedded controllers, sensors, flight control, and autonomous functionalities.
 
 **Focus:**
@@ -103,6 +105,7 @@ Development and experimentation with drone systems involving embedded controller
 ---
 
 ### 🔌 Embedded Systems & IoT
+
 Microcontroller-based projects involving sensor interfacing, wireless communication, embedded programming, and hardware debugging.
 
 **Focus:**
@@ -131,6 +134,7 @@ Microcontroller-based projects involving sensor interfacing, wireless communicat
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adithyan1426&show_icons=true&theme=github_dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adithyan1426&layout=compact&langs_count=10&theme=github_dark&hide_border=true)
+
 ---
 
 ## 🤝 Connect With Me
